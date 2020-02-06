@@ -17,3 +17,5 @@ I get a IOU score of 69% on the semantic segmentation of the salt data set. Then
  ![](./Images/u-net-architecture.png)
 
 
+### Quantization
+   I am attempting to Quantize the net layer by layer, this is still a work in progress...... 
