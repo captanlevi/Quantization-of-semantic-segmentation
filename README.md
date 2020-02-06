@@ -13,4 +13,7 @@ Read the jupyter notebook file "salt" to find the commented code. Here I train t
 
 I get a IOU score of 69% on the semantic segmentation of the salt data set. Then I attempt to Quantize the network on a variable number of bits as specified by user. (This is still a work in progress)
 
+### The U net
+ ![](./Images/u-net-architecture.png)
+
 
